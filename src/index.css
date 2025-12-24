@@ -1,0 +1,18 @@
+/* src/index.css or src/tailwind.css */
+    @tailwind base;
+    @tailwind components;
+    @tailwind utilities;
+
+
+.clip-diagonal {
+  clip-path: polygon(0 30%, 100% 100%, 30% 100%);
+}
+x
+/* utility to hide scrollbars for the horizontal gallery */
+.no-scrollbar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Opera */
+}
