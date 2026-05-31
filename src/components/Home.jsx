@@ -152,9 +152,9 @@ function Home() {
 
     {/* Title */}
     <h2 className="text-base  md:ml-4 lg:ml-0 xl:ml-4 md:text-center sm:text-2xl md:text-xl lg:text-3xl xl:text-3xl font-bold text-[#111] leading-snug mb-2 sm:mb-4 md:mb-5">
-      Virtusa Vice-President
+      Vice-President, Virtusa
     </h2>
-
+ 
     {/* Description */}
     <p className="text-[#4b4b4b] md:text-center xl:ml-4 lg:text-center xl:text-start text-xs sm:text-sm md:text- lg:text-lg xl:text-xl leading-relaxed max-w-[90%] sm:max-w-[80%] md:max-w-[400px] lg:max-w-[480px] xl:max-w-[580px] mx-auto md:mx-0">
       Facilities Head Pan India at Virtusa Consulting & Services Ltd with a

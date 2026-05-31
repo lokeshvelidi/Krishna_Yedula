@@ -97,7 +97,7 @@ function Footer() {
           rel="noopener noreferrer"
           aria-label="Consult Press template (opens in a new tab)"
         >
-          Template credit
+          
         </a>
       </div>
     </footer>
